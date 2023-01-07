@@ -1,2 +1,2 @@
 # ae-club-template-ubuntu
-This is the template repo for AE Club.
+This is the template repo for AE Club. Lol
